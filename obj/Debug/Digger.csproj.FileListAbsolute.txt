@@ -1,0 +1,16 @@
+C:\Users\igush\Downloads\digger.csproj\bin\Debug\Images\Digger.png
+C:\Users\igush\Downloads\digger.csproj\bin\Debug\Images\Gold.png
+C:\Users\igush\Downloads\digger.csproj\bin\Debug\Images\Monster.png
+C:\Users\igush\Downloads\digger.csproj\bin\Debug\Images\Sack.png
+C:\Users\igush\Downloads\digger.csproj\bin\Debug\Images\Terrain.png
+C:\Users\igush\Downloads\digger.csproj\bin\Debug\11-digger.exe.config
+C:\Users\igush\Downloads\digger.csproj\bin\Debug\11-digger.exe
+C:\Users\igush\Downloads\digger.csproj\bin\Debug\11-digger.pdb
+C:\Users\igush\Downloads\digger.csproj\bin\Debug\nunit.framework.dll
+C:\Users\igush\Downloads\digger.csproj\obj\Debug\Digger.csproj.AssemblyReference.cache
+C:\Users\igush\Downloads\digger.csproj\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\igush\Downloads\digger.csproj\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\igush\Downloads\digger.csproj\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\igush\Downloads\digger.csproj\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\igush\Downloads\digger.csproj\obj\Debug\11-digger.exe
+C:\Users\igush\Downloads\digger.csproj\obj\Debug\11-digger.pdb
